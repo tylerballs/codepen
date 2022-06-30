@@ -1,0 +1,46 @@
+.footer-wrapper {
+    margin: -10px;
+    background-color: #191a1d;
+    height: 150px;
+}
+
+.footer-wrapper > .section-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-wrapper > .section-wrapper > .section p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding: 15px 99px 15px 99px;
+    color: white;
+    background-color: #36383f;
+    margin-top: 9px;
+    border: 1px solid #676767;
+}
+
+.footer-wrapper > .section-wrapper > .section p span {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: -1px;
+}
+
+.footer-wrapper > .section-wrapper > .secton p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding: 15px 99.5px 15px 99px;
+    color: white;
+    background-color: #36383f;
+    margin-top: 9px;
+    border: 1px solid #676767;
+}
+
+.footer-wrapper > .section-wrapper > .secton p span {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: -1px;
+}
+
+
